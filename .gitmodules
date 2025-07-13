@@ -1,0 +1,3 @@
+[submodule "libs/retro-tiled"]
+	path = libs/retro-tiled
+	url = https://github.com/Retro-Technique/retro-tiled.git
